@@ -2,6 +2,7 @@
 Information extraction from large documents using LLM
 
 Project Description
+
 This project includes various Python files related to data analysis and processing using Large Language Models (LLMs). It also contains JSON configuration files for customization.
 
 FOR THE FIRST TECHNIQUE RUN:
@@ -15,7 +16,6 @@ it22005_llm_2.py
 Configuration files for executions:
 config_1a.json, config_1b.json, config_2.json.
 
-Prerequisites
 
 To run this project, ensure you have the following installed:
 
