@@ -1,0 +1,10 @@
+{
+  "pdf_path": "ArcerolMital_climateactionreport_1.pdf",
+  "excel_path": "semantic_search_queries.xlsx",
+  "output_dir": "output_texts_tech2",
+  "llm_endpoint": "http://127.0.0.1:1234/v1/completions",
+  "temperature": 0.0,
+  "max_tokens": 50,
+  "top_k": 20,
+  "paragraph_limit": 20
+}

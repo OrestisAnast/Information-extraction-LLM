@@ -1,0 +1,10 @@
+{
+    "LLAMA_API_URL": "http://localhost:1234/v1/completions",
+    "BATCH_SIZE": 5,
+    "HEADER_HEIGHT_RATIO": 0.1,
+    "MAX_TOKENS": 1000,
+    "PDF_PATH": "ArcerolMital_climateactionreport_1.pdf",
+    "EXCEL_PATH": "indices.test.xlsx",
+    "RESULTS_PATH": "results.txt",
+    "SEGMENTS_PATH": "segments.txt"
+}
