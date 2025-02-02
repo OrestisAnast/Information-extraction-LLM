@@ -3,7 +3,7 @@ Information extraction from large documents using LLM
 
 Project Description
 
-This project includes various Python files related to data analysis and processing using Large Language Models (LLMs). It also contains JSON configuration files for customization.
+This project includes various Python files related to Information extraction from large documents using Large Language Models (LLMs).It contains two techniques for information extraction. It also contains JSON configuration files for customization.
 
 FOR THE FIRST TECHNIQUE RUN:
 it22005_llm_1.a.py
